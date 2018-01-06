@@ -1,0 +1,13 @@
+﻿program pasall;
+uses
+  ASN1 in 'DEC_v5.2\ASN1.pas',
+  CPU in 'DEC_v5.2\CPU.pas',
+  CRC in 'DEC_v5.2\CRC.pas',
+  DECCipher in 'DEC_v5.2\DECCipher.pas',
+  DECData in 'DEC_v5.2\DECData.pas',
+  DECFmt in 'DEC_v5.2\DECFmt.pas',
+  DECHash in 'DEC_v5.2\DECHash.pas',
+  DECRandom in 'DEC_v5.2\DECRandom.pas',
+  DECUtil in 'DEC_v5.2\DECUtil.pas';
+begin
+end.
